@@ -1,0 +1,24 @@
+{
+  "name": "terabox",
+  "version": "1.0.0",
+  "description": "TeraBox.js is a Node.js module that allows you to easily interact with the Unofficial TeraBox API.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terabox",
+    "terabox.js",
+    "terabox-api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sh9351/terabox.js"
+  },
+  "author": "sh9351<https://sh9351.me>",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "form-data": "^4.0.3"
+  }
+}
