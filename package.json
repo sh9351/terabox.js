@@ -1,5 +1,5 @@
 {
-  "name": "terabox",
+  "name": "terabox.js",
   "version": "1.0.0",
   "description": "TeraBox.js is a Node.js module that allows you to easily interact with the Unofficial TeraBox API.",
   "main": "lib/index.js",
