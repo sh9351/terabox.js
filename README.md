@@ -1,5 +1,6 @@
 <h1 align="center">TeraBox.js</h1>
-<p align="center">[한국어 README](./README.ko.md)</p>
+[한국어 README](./README.ko.md)
+
 TeraBox.js is a Node.js module that allows you to easily interact with the Unofficial [TeraBox](https://www.terabox.com) API.
 
 ## Features

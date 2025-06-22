@@ -1,5 +1,6 @@
 <h1 align="center">TeraBox.js</h1>
-<p align="center">[English README](./README.md)</p>
+[English README](./README.md)
+
 TeraBox.js는 [TeraBox](https://www.terabox.com) 비공식 API와 연동할 수 있는 모듈입니다.
 
 ## 기능
